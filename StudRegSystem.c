@@ -1,12 +1,3 @@
-/*
-* Title: Assignment #1 - Student Registration System
-* Course: CST8234 C Language
-* @Author: <<< Hojhan Siavash Glolani 040735001  >>>
-* Lab Section: 011
-* Professor: George Kriger
-* Due date: 07/10/23
-* Submission date: 07/09/23
-*/
 
 
 /*  Function Name: main
